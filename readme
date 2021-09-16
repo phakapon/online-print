@@ -1,0 +1,41 @@
+Link :http://localhost:5000/users
+    Data :
+        GET , POST
+
+Link :http://localhost:5000/products
+    Data :
+        GET , POST
+
+Link :http://localhost:5000/productsorder
+    Data :
+        GET , POST
+
+Link :http://localhost:5000/locations
+    Data :
+        GET , POST
+
+Link :http://localhost:5000/locationusers
+    Data :
+        GET , POST
+
+Link :http://localhost:5000/users{user_id}
+    Data :
+        GET , PUT, DELETE
+
+Link :http://localhost:5000/products/{product_id}
+    Data :
+        GET , PUT, DELETE
+
+Link :http://localhost:5000/productsorder/{productorder_id}
+    Data :
+        GET , PUT, DELETE
+
+Link :http://localhost:5000/locations/{location_id}
+    Data :
+        GET , PUT, DELETE
+
+Link :http://localhost:5000/locationusers/{locationuser_id}
+    Data :
+        GET , PUT, DELETE
+
+ฝากเทส type ด้วย ou recommend
